@@ -1,4 +1,14 @@
+## Project Deployment Link :
+https://subha62-todo.netlify.app/
+
+
+
 # Getting Started with Create React App
+
+npx create-react-app todo-app
+cd todo-app
+npm start
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
